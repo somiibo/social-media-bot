@@ -1,0 +1,27 @@
+{
+  "name": "somiibo-social-media-bot",
+  "version": "1.0.0",
+  "description": "Social Media Bot automates your social media activity to get real followers, likes, and reposts",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "social-media",
+    "social-media-bot",
+    "bot",
+    "automation",
+    "growth-hacking",
+    "marketing",
+    "javascript",
+    "nodejs",
+    "saas"
+  ],
+  "author": "Somiibo",
+  "license": "ISC",
+  "homepage": "https://somiibo.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somiibo/social-media-bot.git"
+  }
+}
